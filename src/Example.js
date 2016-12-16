@@ -152,7 +152,7 @@ class Example extends Component {
 
     return <div>
       <h1>React JSON Viewer</h1>
-      <a href="https://github.com/nsisodiya/react-json-viewer">https://github.com/nsisodiya/react-json-viewer</a>
+      <a href="https://github.com/Tmassery/react-json-viewer-size">https://github.com/Tmassery/react-json-viewer-size</a>
       <h2>Try yourself</h2>
       <div style={{ margin: 10}}>
         <button data-json-id="0" style={{padding: 5, marginLeft: 10}} onClick={this.btnClick.bind(this)}>Array

@@ -236,8 +236,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	        ),
 	        _react2.default.createElement(
 	          "a",
-	          { href: "https://github.com/nsisodiya/react-json-viewer" },
-	          "https://github.com/nsisodiya/react-json-viewer"
+	          { href: "https://github.com/Tmassery/react-json-viewer-size" },
+	          "https://github.com/Tmassery/react-json-viewer-size"
 	        ),
 	        _react2.default.createElement(
 	          "h2",

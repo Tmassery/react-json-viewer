@@ -1,5 +1,5 @@
 {
-  "name": "react-json-viewer",
+  "name": "react-json-viewer-size",
   "version": "1.6.0",
   "description": "react component for json viewing in tabular format",
   "main": "dist/ReactJSONViewer.js",
@@ -14,19 +14,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nsisodiya/react-json-viewer.git"
+    "url": "git+https://github.com/Tmassery/react-json-viewer-size.git"
   },
   "keywords": [
     "react",
     "react-component",
     "json"
   ],
-  "author": "Narendra Sisodiya <narendra@narendrasisodiya.com>",
+  "author": "Tony Massery <tonymassery@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nsisodiya/react-json-viewer/issues"
+    "url": "https://github.com/Tmassery/react-json-viewer-size/issues"
   },
-  "homepage": "https://github.com/nsisodiya/react-json-viewer#readme",
+  "homepage": "https://github.com/Tmassery/react-json-viewer-size#readme",
   "peerDependencies": {
     "react": ">=0.14.0",
     "react-dom": ">=0.14.0"
